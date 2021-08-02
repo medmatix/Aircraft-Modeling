@@ -20,15 +20,16 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 
 ## BCATP Picton
 
-As this scenery is my first foray into WW2 airfields it is understandable that the aircraft based there to train the Commonwealth Airmen are the first aircraft to be found her.
- Picton was a training base for bombing and gunnery school. The aircraft there at the time were Bristol Bolingbroke (the contract built Bristol Bleneim Mk 1), the Avro Anson and the Fairey Battle. 
+As this scenery is my first foray into WW2 airfields it is understandable that the aircraft based there to train the Commonwealth Airmen are the first aircraft to be found her. Picton was a training base for bombing and gunnery school. The aircraft there at the time were Bristol Bolingbroke (the contract built Bristol Bleneim Mk 1), the Avro Anson and the Fairey Battle. 
+![Bolingbroke](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/blender%20sources/Bolingbroke.png) 
+
  
 ## Other BCATP Projects
  	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
   ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
   
-  BCATP Picton Scenery Project
-  
+  ### BCATP Picton Scenery Project
+  ![BCATP Picton c.1945]()
   
 
 ## References
