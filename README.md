@@ -28,7 +28,7 @@ As this scenery is my first foray into WW2 airfields it is understandable that t
  	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
   ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
   
-  ### BCATP Picton Scenery Project
+### BCATP Picton Scenery Project
   ![X-Plane Aerial BCATP Picton c.1945](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Crane%20-%202021-07-31%205.07.10%20PM.png)
   
 
