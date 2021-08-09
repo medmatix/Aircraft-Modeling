@@ -26,10 +26,14 @@ As this scenery is my first foray into WW2 airfields it is understandable that t
  
 ## Other BCATP Projects
  	Flight Ontario, Al Gay, Grant Wilson (ref: bcatp_fs9_01_aug_11.zip)
-  ![bcatp_fs9_01_aug_11.zip](https://library.avsim.net/sendfile.php?Location=AVSIM&Proto=file&ImageID=289560)
+  I looked to see if I could re-use any objects from this but it was not completely open source and I also couldn't contact them via Fight Ontario which appears defunct. Oh well!
   
 ### BCATP Picton Scenery Project
   ![X-Plane Aerial BCATP Picton c.1945](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Crane%20-%202021-07-31%205.07.10%20PM.png)
+  
+  ![From baseline of 6/21](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.16.55.png)
+  
+  ![Flight-line with Bolingbrokes](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.19.12.png)
   
 
 ## References
@@ -41,4 +45,4 @@ As this scenery is my first foray into WW2 airfields it is understandable that t
 5.  MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155 
 6.  Milberry, Larry and Hugh Halliday; The Royal Canadian Air Firce at War 1939 - 1945,Canav Books, RToronto, 1990.
 
-Acknowledgement: Assistance of Steve Campbell at County Magazine is gratefully appreciated.
+Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is appreciated.
