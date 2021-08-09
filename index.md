@@ -2,7 +2,9 @@
 
 Re-creation for X-Plane 11, of various aircraft of historic interest, particularly to the Commonwealth Air Training Plan as well as miscellaneous others
 
-Aerial View of the Aerodrome and environs
+Aerial Views of the Aerodrome and environs
+
+![](https://commons.wikimedia.org/wiki/File:RCAF_Picton_Aerial_View_1940s.jpg)
 
 ![RCAF Picton Aerial View 1940s](https://github.com/medmatix/BCATP-Picton_Aerodrome/blob/main/images/Picton01.jpg)
 
