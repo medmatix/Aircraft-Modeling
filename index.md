@@ -47,11 +47,12 @@ BCATP Picton Scenery Project
 
 ## References
 
-    Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
-    Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
-    Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
-    Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
-    MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
-    Milberry, Larry and Hugh Halliday; The Royal Canadian Air Firce at War 1939 - 1945,Canav Books, RToronto, 1990.
+Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
+Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
+Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
+Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
+MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155
+Milberry, Larry and Hugh Halliday; The Royal Canadian Air Firce at War 1939 - 1945,Canav Books, RToronto, 1990.
+Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
 
 Acknowledgement: Assistance of Steve Campbell at County Magazine is appreciated.
