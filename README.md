@@ -2,18 +2,19 @@
 
 Re-creation for X-Plane 11, of various aircraft of historic interest, particularly to the Commonwealth Air Training Plan as well as miscellaneous others.
  
- 
-## The Commonwealth Air Training Plan (BCATP) 1939-1945
-
-With the approach of WW2 the need for airmen, pilots gunners etc., was dire and prompted the establishment of a network of training bases throughout the commonwealth (including Australia, Canada and New Zealand) This resulted in a massive addition of aircraft facilities in the host countries which persist, for the most part, in some form to today. Though the runways continue to be usable and often regularly used, unfortunately many facilities have fallen in disrepair.
-
-There is a collection of BCATP scenery (Flight Ontario, Al Gay, Grant Wilson) for older flight simulators available (FSX and FS2004 Prepar3d etc.) these have been slow to be promoted to X-Plane (and FS 2021).  This project is to create aircraft models as scenery and perhaps later flyanle aircraft from the WW2 era and beyond. These aircraft will include a preponderance of British Wartime aircraft for obvious reasons
 
 ## Development
 
 There have been no open source static aircraft for war-era scenery of airfields/aerodromes up to this writing so it has been neccessary to create these for historically accurate airfileds from World War II Europe. Flyable historic aircraft are somewhat better represented in the community but the more ecclectic of the list w (say the Armstrong-Whitworth Whitley) tend to be farther down peoples list ofmust haves
 
 Blender is the primary modeling tool used, and Krita is used to creat the necessary textures as thing stand right now. I will be exploring more photorealistic textures as I learn the tools better. For models flyable within X-Plane the Planemaker and Airfoil maker tools which come with even the demo version of X-Plane have been an mainstay.
+
+ 
+## The Commonwealth Air Training Plan (BCATP) 1939-1945
+
+With the approach of WW2 the need for airmen, pilots gunners etc., was dire and prompted the establishment of a network of training bases throughout the commonwealth (including Australia, Canada and New Zealand) This resulted in a massive addition of aircraft facilities in the host countries which persist, for the most part, in some form to today. Though the runways continue to be usable and often regularly used, unfortunately many facilities have fallen in disrepair.
+
+There is a collection of BCATP scenery (Flight Ontario, Al Gay, Grant Wilson) for older flight simulators available (FSX and FS2004 Prepar3d etc.) these have been slow to be promoted to X-Plane (and FS 2021).  This project is to create aircraft models as scenery and perhaps later flyanle aircraft from the WW2 era and beyond. These aircraft will include a preponderance of British Wartime aircraft for obvious reasons
 
 ## BCATP Picton
 
