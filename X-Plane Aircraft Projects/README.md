@@ -16,6 +16,39 @@ With the approach of WW2 the need for airmen, pilots gunners etc., was dire and 
 
 There is a collection of BCATP scenery (Flight Ontario, Al Gay, Grant Wilson) for older flight simulators available (FSX and FS2004 Prepar3d etc.) these have been slow to be promoted to X-Plane (and FS 2021).  This project is to create aircraft models as scenery and perhaps later flyanle aircraft from the WW2 era and beyond. These aircraft will include a preponderance of British Wartime aircraft for obvious reasons
 
+
+## Development
+
+I was introduced to modern flight simulation with X-Plane and found scenery development quite approachable first modeling with AC3D and more recently open source Blender. Layout/overlay development has in my hands been with World Editor (WED) and a myriad of open object libraries. There are no open source static aircraft for war-era scenery of airfields/aerodromes at this writing so I must create my owns.
+
+Blender is the primary modeling tool used and Krita is used to creat the necessary textures as thing stand right now. I will be exploring more photorealistic textures as I learn the tools better.
+
+
+
+## Aircraft Modeling
+
+### Static Aircraft
+
+- Avro Anson Mk I
+- Bristol Bolingbroke
+- Fairey Battle
+- Westland Lysander
+- Airspeed Oxford (under development)
+
+
+
+### X-plane Flyable Models
+
+- Bristol Blenheim Mk IV Model 146 (Fairchild Canada Bolingbroke) [beta version]()
+
+  
+
+  ### Aircraft Screen Shots and Bitmaps
+
+  
+
+
+
 ## BCATP Picton
 
 As this scenery is my first foray into WW2 airfields it is understandable that the aircraft based there to train the Commonwealth Airmen are the first aircraft to be found her. Picton was a training base for bombing and gunnery school. The aircraft there at the time were Bristol Bolingbroke (the contract built Bristol Bleneim Mk 1), the Avro Anson and the Fairey Battle. 
@@ -24,7 +57,7 @@ As this scenery is my first foray into WW2 airfields it is understandable that t
 ![Avro Anson Mk 1](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/AvroAnson.png)
  
   
-### BCATP Picton Scenery Project
+### BCATP Picton Scenery Project Screen Shots and Bitmaps
   ![X-Plane Aerial BCATP Picton c.1945](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Crane%20-%202021-07-31%205.07.10%20PM.png)
   
   ![From baseline of 6/21](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/VSL%20C-47%20-%202021-08-04%2012.16.55.png)
