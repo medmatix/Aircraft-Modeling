@@ -1,10 +1,6 @@
-# Aircraft 3D Models
+# X-Plane Aircraft
 
 Re-creation for X-Plane 11, of various aircraft of historic interest, particularly to the Commonwealth Air Training Plan as well as miscellaneous others
-
-[Aerial View of the Aerodrome and environs](https://en.wikipedia.org/wiki/CFB_Picton)
-
-<a title="unknown.   Canada.   Department of National Defence., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:RCAF_Picton_Aerial_View_1940s.jpg"><img width="512" alt="RCAF Picton Aerial View 1940s" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RCAF_Picton_Aerial_View_1940s.jpg/512px-RCAF_Picton_Aerial_View_1940s.jpg"></a>
 
 ## The Commonwealth Air Training Plan (BCATP) 1939-1945
 
@@ -31,27 +27,23 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 - Airspeed Oxford (under development)
 
 
-
 ### X-plane Flyable Models
 
 - Bristol Blenheim Mk IV Model 146 (Fairchild Canada Bolingbroke) [beta version]()
 
   
 
-  ### Model Aircraft Screen Shots and Bitmaps
-
+  ### Model Aircraft (png) Bitmaps
   
+  These are bitmap renders from blender of 3D Models created there
 
-## BCATP Picton
-
-As this scenery is my first foray into WW2 airfields it is understandable that the aircraft based there to train the Commonwealth Airmen are the first aircraft to be found her. Picton was a training base for bombing and gunnery school. The aircraft there at the time were Bristol Bolingbroke (the contract built Bristol Bleneim Mk 1), the Avro Anson and the Fairey Battle. 
 ![Bolingbroke](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/blender%20sources/Bolingbroke.png) 
 
 ![Avro Anson Mk 1](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/AvroAnson.png)
 
 
 
-###    Screenshots BCATP Picton Scenery Project
+   ###  X-Plane Screenshots of Static and Flyable Models
 
   ![X-Plane Aerial BCATP Picton c.1945](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Crane%20-%202021-07-31%205.07.10%20PM.png)
 
