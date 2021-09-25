@@ -71,7 +71,7 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
   
   ![Fairey Battle with Bolingbroke for take-off](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
   
-  ![Buzzing thre Flight-line](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
+  ![Buzzing thre Flight-line](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/BuzzTheFlight-line.png)
 
 
 
