@@ -45,7 +45,6 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 
 ![Westland Lysander](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Lysander_1.png)
 
-
 ![Fairey Battle](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Fairey_Battle_2.png)
 
 ![Fairey Battle](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Fairey_Battle_1.png)
@@ -63,7 +62,16 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
   ![Anson Between Hangars](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/AnsonBetweenHangars.png)
 
   ![Anson flight-line](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/AnsonFlight-line.png)
-
+  
+  ![Anson and Lysander](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
+  
+  ![Lysander Flight-line](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
+  
+  ![Fairey Flight-line](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
+  
+  ![Fairey Battle with Bolingbroke for take-off](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
+  
+  ![Buzzing thre Flight-line](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/)
 
 
 
