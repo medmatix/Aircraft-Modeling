@@ -46,6 +46,11 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 ![Westland Lysander](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Lysander_1.png)
 
 
+![Fairey Battle](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Fairey_Battle_2.png)
+
+![Fairey Battle](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/Fairey_Battle_1.png)
+
+
 
    ###  X-Plane Screenshots of Static and Flyable Models
 
