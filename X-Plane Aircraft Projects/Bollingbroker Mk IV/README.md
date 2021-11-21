@@ -4,6 +4,8 @@ Re-creation for X-Plane 11, of various aircraft of historic interest, particular
 
 ## Bristol-Fairchild Bolingbroke Mk-IV
 
+If you enjoy using the static objects of flying my Bolingbroke please consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
+
 ## References
 
 1.  Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
