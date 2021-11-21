@@ -52,4 +52,4 @@ As this scenery is my first foray into WW2 airfields it is understandable that t
 
 Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is appreciated.
 
-Consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
+Consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US) or [Patreon](https://www.patreon.com/medmatix)
