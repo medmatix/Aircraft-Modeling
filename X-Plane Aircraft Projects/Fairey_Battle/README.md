@@ -4,6 +4,10 @@ Re-creation for X-Plane 11, of various aircraft of historic interest, particular
 
 ## Fairey Battle
 
+
+If you enjoy flying my design of the Fairey Battle, please consider supporting me via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
+
+
 ## References
 
 1.  Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
