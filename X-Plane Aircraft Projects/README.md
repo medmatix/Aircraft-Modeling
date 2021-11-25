@@ -90,3 +90,5 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 7.  Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
 
 Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is appreciated.
+
+Please consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
