@@ -10,12 +10,7 @@ The **Bristol Blenheim** is a British [light bomber](https://en.wikipedia.org/wi
 
 A development of the Type 142M was the Type 149 which Bristol  named the Bolingbroke, retrospectively changed by the Air Ministry to  Blenheim Mk IV and the Type 142M to the Blenheim Mk I. Fairchild Canada  built the Type 149 under licence as the Bolingbroke. Blenheims Mk I and  the Mk IV were adapted as fighters by the addition of a gun pack of four Browning .303 machine guns in the bomb bay. The Mk IV was used as a  long range fighter and as a maritime patrol aircraft; both aircraft were also used as bomber/gunnery trainers.
 
-The Blenheim was one of the first British aircraft with an all-metal [stressed-skin](https://en.wikipedia.org/wiki/Monocoque#Aircraft) construction, retractable [landing gear](https://en.wikipedia.org/wiki/Landing_gear), [flaps](https://en.wikipedia.org/wiki/Flap_(aircraft)), a powered [gun turret](https://en.wikipedia.org/wiki/Gun_turret) and [variable-pitch propellers](https://en.wikipedia.org/wiki/Variable-pitch_propeller_(aeronautics)). The Mk I was faster than most fighters in the late 1930s but the  advance in development of monoplane fighters made all bombers more  vulnerable particularly if flown in daylight, though it proved  successful as a night fighter. The Blenheim was effective as a bomber  but many were shot down. Both Blenheim types were used by overseas  operators, being licence built in Yugoslavia and Finland.
-
-[^1]: https://en.wikipedia.org/wiki/Bristol_Blenheim
-
-
-
+The Blenheim was one of the first British aircraft with an all-metal [stressed-skin](https://en.wikipedia.org/wiki/Monocoque#Aircraft) construction, retractable [landing gear](https://en.wikipedia.org/wiki/Landing_gear), [flaps](https://en.wikipedia.org/wiki/Flap_(aircraft)), a powered [gun turret](https://en.wikipedia.org/wiki/Gun_turret) and [variable-pitch propellers](https://en.wikipedia.org/wiki/Variable-pitch_propeller_(aeronautics)). The Mk I was faster than most fighters in the late 1930s but the  advance in development of monoplane fighters made all bombers more  vulnerable particularly if flown in daylight, though it proved  successful as a night fighter. The Blenheim was effective as a bomber  but many were shot down. Both Blenheim types were used by overseas  operators, being licence built in Yugoslavia and Finland.^1
 
 
 If you enjoy using the static objects of flying my Bolingbroke please consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
