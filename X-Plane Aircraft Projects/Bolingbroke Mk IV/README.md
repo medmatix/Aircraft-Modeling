@@ -12,6 +12,8 @@ A development of the Type 142M was the Type 149 which Bristol  named the Bolingb
 
 The Blenheim was one of the first British aircraft with an all-metal [stressed-skin](https://en.wikipedia.org/wiki/Monocoque#Aircraft) construction, retractable [landing gear](https://en.wikipedia.org/wiki/Landing_gear), [flaps](https://en.wikipedia.org/wiki/Flap_(aircraft)), a powered [gun turret](https://en.wikipedia.org/wiki/Gun_turret) and [variable-pitch propellers](https://en.wikipedia.org/wiki/Variable-pitch_propeller_(aeronautics)). The Mk I was faster than most fighters in the late 1930s but the  advance in development of monoplane fighters made all bombers more  vulnerable particularly if flown in daylight, though it proved  successful as a night fighter. The Blenheim was effective as a bomber  but many were shot down. Both Blenheim types were used by overseas  operators, being licence built in Yugoslavia and Finland.<sup>1</sub>
 
+![Bolingbroke in RCAF 1942 Markings](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/X-Plane%20Aircraft%20Projects/Bolingbroke%20Mk%20IV/Art_Files/BlenheimMkIV%20-%202021-09-24%2017.42.01.png)
+
 
 If you enjoy using the static objects of flying my Bolingbroke please consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
 
