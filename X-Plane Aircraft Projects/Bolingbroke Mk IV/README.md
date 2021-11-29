@@ -4,7 +4,7 @@ Re-creation for X-Plane 11, of various aircraft of historic interest, particular
 
 ## Bristol-Fairchild Bolingbroke Mk-IV
 
-!{Bolingbroke restoration in flight](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/X-Plane%20Aircraft%20Projects/Bolingbroke%20Mk%20IV/Art_Files/BlenheimMkIV_2.jpg)
+![Bolingbroke restoration in flight](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/X-Plane%20Aircraft%20Projects/Bolingbroke%20Mk%20IV/Art_Files/BlenheimMkIV_2.jpg)
 
 The **Bristol Fairchild Bolingbroke** is a [maritime patrol aircraft](https://en.wikipedia.org/wiki/Maritime_patrol_aircraft) and trainer used by the [Royal Canadian Air Force](https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force) during the [Second World War](https://en.wikipedia.org/wiki/Second_World_War). Built by [Fairchild-Canada](https://en.wikipedia.org/wiki/Fairchild_Aircraft_Ltd._(Canada)), it was a license-built version of the [Bristol Blenheim Mk IV](https://en.wikipedia.org/wiki/Bristol_Blenheim) bomber.
 
