@@ -31,7 +31,7 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 - Fairey Battle
 - Westland Lysander
 
-[Youtube, my Lysander in Flight]()
+[Youtube, my Lysander in Flight](https://youtu.be/uxI8YhunjR8)
 
   ### Model Aircraft (png) Bitmaps
   
