@@ -14,8 +14,6 @@ I was introduced to modern flight simulation with X-Plane and found scenery deve
 
 Blender is the primary modeling tool used and Krita is used to creat the necessary textures as thing stand right now. I will be exploring more photorealistic textures as I learn the tools better.
 
-
-
 ## Aircraft Modeling
 
 ### Static Aircraft
@@ -30,8 +28,10 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 ### X-plane Flyable Models
 
 - Bristol Blenheim Mk IV Model 146 (Fairchild Canada Bolingbroke) [beta version]()
+- Fairey Battle
+- Westland Lysander
 
-  
+[Youtube, my Lysander in Flight]()
 
   ### Model Aircraft (png) Bitmaps
   
@@ -78,17 +78,12 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
   ![Bolingbroke awaits take-off Mountain View](https://github.com/medmatix/Aircraft3D_Modeling/blob/main/images/BlenheimMkIV%20-%202021-09-24%2017.42.01.png)
 
 
-
 ## References
 
-1.  Robertson, Ian S.; Camp Picton, Wartime to Peacetime, Count Magazine, Printshop, Bloomfield, 2013.
-2.  Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
-3.  Williams, James N.; Rge Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
-4.  Innes, Graham Buchan; British Airfield Buildings of the Second World War,Midland Publ., 1995.
-5.  MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155 
-6.  Milberry, Larry and Hugh Halliday; The Royal Canadian Air Firce at War 1939 - 1945,Canav Books, RToronto, 1990.
-7.  Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
-
-Acknowledgement: Assistance of Steve Campbell at [County Magazine](https://www.countymagazine.ca/) is appreciated.
+1.  Hatch, F. J.; Aerodrome of Democracy: Canada and the British Commonwealth Air Training Plan 1939-1945, Dept of National Defence, Ottawa, 1983.
+2.  Williams, James N.; The Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
+3.  MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155 
+5.  Milberry, Larry and Hugh Halliday; The Royal Canadian Air Firce at War 1939 - 1945,Canav Books, RToronto, 1990.
+5.  Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
 
 Please consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
