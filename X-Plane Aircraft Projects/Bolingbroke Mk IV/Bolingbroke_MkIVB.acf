@@ -149,14 +149,14 @@ P _gear/0/_gear_x 8.100000381
 P _gear/0/_gear_y -1.080000043
 P _gear/0/_gear_z -32.400001526
 P _gear/0/_latE 4.0
-P _gear/0/_latN 0.129004061
+P _gear/0/_latN 0.175826371
 P _gear/0/_latR 0.0
 P _gear/0/_leg_len 4.500000000
 P _gear/0/_lonE 7.0
-P _gear/0/_lonN -93.645896912
+P _gear/0/_lonN -92.428512573
 P _gear/0/_lonR -97.0
 P _gear/0/_scon 12618.635742188
-P _gear/0/_stat_def 0.478283077
+P _gear/0/_stat_def 0.478283107
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
 P _gear/0/_strut_comp 1.299999952
@@ -183,14 +183,14 @@ P _gear/1/_gear_x -8.100000381
 P _gear/1/_gear_y -1.080000043
 P _gear/1/_gear_z -32.400001526
 P _gear/1/_latE 4.0
-P _gear/1/_latN 0.129004061
+P _gear/1/_latN 0.175826371
 P _gear/1/_latR 0.0
 P _gear/1/_leg_len 4.500000000
 P _gear/1/_lonE 7.0
-P _gear/1/_lonN -93.645896912
+P _gear/1/_lonN -92.428512573
 P _gear/1/_lonR -97.0
 P _gear/1/_scon 12618.635742188
-P _gear/1/_stat_def 0.478283077
+P _gear/1/_stat_def 0.478283107
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 1.299999952
@@ -208,7 +208,7 @@ P _gear/2/_damp 301.126556396
 P _gear/2/_eagle_claw_deg 0.0
 P _gear/2/_gear_brakes 0
 P _gear/2/_gear_can_retract 0
-P _gear/2/_gear_castors 0
+P _gear/2/_gear_castors 1
 P _gear/2/_gear_def_empty 0.0
 P _gear/2/_gear_def_gross 0.0
 P _gear/2/_gear_load_fraction 0.106864810
@@ -258,7 +258,7 @@ P _gear/3/_lonE 0.0
 P _gear/3/_lonN 0.0
 P _gear/3/_lonR 0.0
 P _gear/3/_scon 6309.317871094
-P _gear/3/_stat_def 0.017894037
+P _gear/3/_stat_def 0.017894033
 P _gear/3/_steerdeg_hispeed 0.0
 P _gear/3/_steerdeg_lospeed 0.0
 P _gear/3/_strut_comp 0.0
@@ -292,7 +292,7 @@ P _gear/4/_lonE 0.0
 P _gear/4/_lonN 0.0
 P _gear/4/_lonR 0.0
 P _gear/4/_scon 6309.317871094
-P _gear/4/_stat_def 0.017894037
+P _gear/4/_stat_def 0.017894033
 P _gear/4/_steerdeg_hispeed 0.0
 P _gear/4/_steerdeg_lospeed 0.0
 P _gear/4/_strut_comp 0.0
@@ -326,7 +326,7 @@ P _gear/5/_lonE 0.0
 P _gear/5/_lonN 0.0
 P _gear/5/_lonR 0.0
 P _gear/5/_scon 6309.317871094
-P _gear/5/_stat_def 0.017894037
+P _gear/5/_stat_def 0.017894033
 P _gear/5/_steerdeg_hispeed 0.0
 P _gear/5/_steerdeg_lospeed 0.0
 P _gear/5/_strut_comp 0.0
@@ -360,7 +360,7 @@ P _gear/6/_lonE 0.0
 P _gear/6/_lonN 0.0
 P _gear/6/_lonR 0.0
 P _gear/6/_scon 6309.317871094
-P _gear/6/_stat_def 0.017894037
+P _gear/6/_stat_def 0.017894033
 P _gear/6/_steerdeg_hispeed 0.0
 P _gear/6/_steerdeg_lospeed 0.0
 P _gear/6/_strut_comp 0.0
@@ -394,7 +394,7 @@ P _gear/7/_lonE 0.0
 P _gear/7/_lonN 0.0
 P _gear/7/_lonR 0.0
 P _gear/7/_scon 6309.317871094
-P _gear/7/_stat_def 0.017894037
+P _gear/7/_stat_def 0.017894033
 P _gear/7/_steerdeg_hispeed 0.0
 P _gear/7/_steerdeg_lospeed 0.0
 P _gear/7/_strut_comp 0.0
@@ -428,7 +428,7 @@ P _gear/8/_lonE 0.0
 P _gear/8/_lonN 0.0
 P _gear/8/_lonR 0.0
 P _gear/8/_scon 6309.317871094
-P _gear/8/_stat_def 0.017894037
+P _gear/8/_stat_def 0.017894033
 P _gear/8/_steerdeg_hispeed 0.0
 P _gear/8/_steerdeg_lospeed 0.0
 P _gear/8/_strut_comp 0.0
@@ -462,7 +462,7 @@ P _gear/9/_lonE 0.0
 P _gear/9/_lonN 0.0
 P _gear/9/_lonR 0.0
 P _gear/9/_scon 6309.317871094
-P _gear/9/_stat_def 0.017894037
+P _gear/9/_stat_def 0.017894033
 P _gear/9/_steerdeg_hispeed 0.0
 P _gear/9/_steerdeg_lospeed 0.0
 P _gear/9/_strut_comp 0.0
@@ -26992,7 +26992,7 @@ P _part/88/_part_specs_invis 1
 P _part/88/_part_tex 0
 P _part/88/_part_the 0.0
 P _part/88/_part_x 0.0
-P _part/88/_part_y 0.017894037
+P _part/88/_part_y 0.017894033
 P _part/88/_part_z 0.0
 P _part/88/_patt_con 0
 P _part/88/_patt_prt 0
@@ -28462,7 +28462,7 @@ P _part/89/_part_specs_invis 1
 P _part/89/_part_tex 0
 P _part/89/_part_the 0.0
 P _part/89/_part_x 0.0
-P _part/89/_part_y 0.017894037
+P _part/89/_part_y 0.017894033
 P _part/89/_part_z 0.0
 P _part/89/_patt_con 0
 P _part/89/_patt_prt 0
@@ -31402,7 +31402,7 @@ P _part/90/_part_specs_invis 1
 P _part/90/_part_tex 0
 P _part/90/_part_the 0.0
 P _part/90/_part_x 0.0
-P _part/90/_part_y 0.017894037
+P _part/90/_part_y 0.017894033
 P _part/90/_part_z 0.0
 P _part/90/_patt_con 0
 P _part/90/_patt_prt 0
@@ -32872,7 +32872,7 @@ P _part/91/_part_specs_invis 1
 P _part/91/_part_tex 0
 P _part/91/_part_the 0.0
 P _part/91/_part_x 0.0
-P _part/91/_part_y 0.017894037
+P _part/91/_part_y 0.017894033
 P _part/91/_part_z 0.0
 P _part/91/_patt_con 0
 P _part/91/_patt_prt 0
@@ -34342,7 +34342,7 @@ P _part/92/_part_specs_invis 1
 P _part/92/_part_tex 0
 P _part/92/_part_the 0.0
 P _part/92/_part_x 0.0
-P _part/92/_part_y 0.017894037
+P _part/92/_part_y 0.017894033
 P _part/92/_part_z 0.0
 P _part/92/_patt_con 0
 P _part/92/_patt_prt 0
@@ -35812,7 +35812,7 @@ P _part/93/_part_specs_invis 1
 P _part/93/_part_tex 0
 P _part/93/_part_the 0.0
 P _part/93/_part_x 0.0
-P _part/93/_part_y 0.017894037
+P _part/93/_part_y 0.017894033
 P _part/93/_part_z 0.0
 P _part/93/_patt_con 0
 P _part/93/_patt_prt 0
@@ -37282,7 +37282,7 @@ P _part/94/_part_specs_invis 1
 P _part/94/_part_tex 0
 P _part/94/_part_the 0.0
 P _part/94/_part_x 0.0
-P _part/94/_part_y 0.017894037
+P _part/94/_part_y 0.017894033
 P _part/94/_part_z 0.0
 P _part/94/_patt_con 0
 P _part/94/_patt_prt 0
@@ -41594,7 +41594,7 @@ P acf/_bouncer_spring_k/9,2 0.0
 P acf/_bouncer_spring_k/i_count 14
 P acf/_bouncer_spring_k/j_count 3
 P acf/_brake_co 0.500000000
-P acf/_brake_to_steer_power 0.0
+P acf/_brake_to_steer_power 1.0
 P acf/_burner_inc 0.0
 P acf/_bus_bat_is_on/0 0
 P acf/_bus_bat_is_on/1 0
@@ -43598,7 +43598,7 @@ P acf/_stab_trim_dn 0.0
 P acf/_stab_trim_up 0.0
 P acf/_stab_with_Vind 0.0
 P acf/_stab_with_flap 0.0
-P acf/_stall_warn_aoa 10.0
+P acf/_stall_warn_aoa 20.0
 P acf/_stall_warn_is_variable 0
 P acf/_start_on_water 0
 P acf/_starter_engages_fuel 1
@@ -43608,7 +43608,7 @@ P acf/_starter_engages_ignition 1
 P acf/_starter_is_air_driven 0
 P acf/_starter_max_rpm_rat 1.0
 P acf/_starter_torque_rat 0.300000012
-P acf/_steerdeg_castor 20.0
+P acf/_steerdeg_castor 30.0
 P acf/_stickshaker 0
 P acf/_studio Toth Studio, Geogia U.S.A
 P acf/_sweep_extend_protect 0
@@ -43785,7 +43785,7 @@ P acf/_warn_fuelP 1.0
 P acf/_warn_gear 0
 P acf/_warn_hirot_EQ 0
 P acf/_warn_lorot_EQ 0
-P acf/_warn_stall 1
+P acf/_warn_stall 0
 P acf/_warn_transonic_EQ 0
 P acf/_warn_verbal_500_agl 0
 P acf/_wate_xyz/0 0.0
@@ -43797,17 +43797,17 @@ P acf/_water_rud_Z 0.0
 P acf/_water_rud_area 0.0
 P acf/_water_rud_maxdef 0.0
 P acf/_water_scoop_dep_time 0.010000000
-P acf/_wheel_tire_s1/0 0.044444446
+P acf/_wheel_tire_s1/0 0.044000000
 P acf/_wheel_tire_s1/1 0.059999999
 P acf/_wheel_tire_s1/count 2
-P acf/_wheel_tire_s2/0 0.109629631
+P acf/_wheel_tire_s2/0 0.109999999
 P acf/_wheel_tire_s2/1 0.123999998
 P acf/_wheel_tire_s2/count 2
-P acf/_wheel_tire_t1/0 0.266666681
-P acf/_wheel_tire_t1/1 0.382222235
+P acf/_wheel_tire_t1/0 0.266999990
+P acf/_wheel_tire_t1/1 0.381999999
 P acf/_wheel_tire_t1/count 2
-P acf/_wheel_tire_t2/0 0.327407420
-P acf/_wheel_tire_t2/1 0.462222219
+P acf/_wheel_tire_t2/0 0.326999992
+P acf/_wheel_tire_t2/1 0.462000012
 P acf/_wheel_tire_t2/count 2
 P acf/_windshield_scratchy 0
 P acf/_wing_damp_rat 1.0
@@ -43908,7 +43908,7 @@ horiz_90 horizon_90_pitch.pn
   KEY_FRAME 1.000000 1.000000
 
 ins_needle needle.png
-  POS 142.000000 95.000000
+  POS 140.000000 95.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 3
@@ -44197,21 +44197,19 @@ ins_tailnum tailnum.png
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-asi_preset_BC_nodig asi_preset_BC.png
-  POS 142.000000 277.000000
+alt_GA alt_GA.png
+  POS 336.000000 276.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-alt_HM alt_HM.png
-  POS 337.000000 277.000000
+asi_preset_GA_300 asi_preset_GA_300.p
+  POS 140.000000 278.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 1
-  BUS_SRC 1
+  LIGHT_RHEOSTAT 0
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 

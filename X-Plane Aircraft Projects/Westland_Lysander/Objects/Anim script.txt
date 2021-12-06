@@ -1,0 +1,6 @@
+ANIM_begin
+# ANIM_rotate <x> <y> <z> <r1> <r2> <v1> <v2> [dataref]
+ANIM_trans 0 0 0 0 0 0 0 0 no_ref
+ANIM_rotate 0 0 1 -25 25 -1 1 sim/flightmodel2/wing/rudder1_deg[10]
+TRIS  336 341*******???????????
+ANIM_end

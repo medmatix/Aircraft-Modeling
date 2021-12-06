@@ -143,10 +143,10 @@ P _gear/0/_latN 0.0
 P _gear/0/_latR 0.0
 P _gear/0/_leg_len 4.900000095
 P _gear/0/_lonE 15.0
-P _gear/0/_lonN 15.0
+P _gear/0/_lonN -45.577480316
 P _gear/0/_lonR -85.0
 P _gear/0/_scon 10830.869140625
-P _gear/0/_stat_def 0.478283644
+P _gear/0/_stat_def 0.478283614
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
 P _gear/0/_strut_comp 0.0
@@ -177,10 +177,10 @@ P _gear/1/_latN 0.0
 P _gear/1/_latR 0.0
 P _gear/1/_leg_len 4.900000095
 P _gear/1/_lonE 15.0
-P _gear/1/_lonN 15.0
+P _gear/1/_lonN -45.577480316
 P _gear/1/_lonR -85.0
 P _gear/1/_scon 10830.869140625
-P _gear/1/_stat_def 0.379998863
+P _gear/1/_stat_def 0.379998893
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -198,7 +198,7 @@ P _gear/2/_damp 261.745971680
 P _gear/2/_eagle_claw_deg 10.0
 P _gear/2/_gear_brakes 0
 P _gear/2/_gear_can_retract 0
-P _gear/2/_gear_castors 0
+P _gear/2/_gear_castors 1
 P _gear/2/_gear_def_empty 0.0
 P _gear/2/_gear_def_gross 0.0
 P _gear/2/_gear_load_fraction 0.132941455
@@ -214,7 +214,7 @@ P _gear/2/_lonE -53.0
 P _gear/2/_lonN -53.0
 P _gear/2/_lonR -53.0
 P _gear/2/_scon 2617.459716797
-P _gear/2/_stat_def 0.544534743
+P _gear/2/_stat_def 0.544534802
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -15025,7 +15025,7 @@ P _part/85/_part_specs_invis 0
 P _part/85/_part_tex 0
 P _part/85/_part_the 0.0
 P _part/85/_part_x 4.800000191
-P _part/85/_part_y -6.154752731
+P _part/85/_part_y -6.154753208
 P _part/85/_part_z 10.031786919
 P _part/85/_patt_con 0
 P _part/85/_patt_prt 0
@@ -17965,7 +17965,7 @@ P _part/87/_part_specs_invis 0
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x 0.0
-P _part/87/_part_y -0.747824728
+P _part/87/_part_y -0.747824669
 P _part/87/_part_z 42.218227386
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -27781,7 +27781,7 @@ P acf/_bouncer_spring_k/9,2 0.0
 P acf/_bouncer_spring_k/i_count 14
 P acf/_bouncer_spring_k/j_count 3
 P acf/_brake_co 1.0
-P acf/_brake_to_steer_power 0.0
+P acf/_brake_to_steer_power 1.0
 P acf/_burner_inc 0.0
 P acf/_bus_bat_is_on/0 0
 P acf/_bus_bat_is_on/1 0
@@ -29778,14 +29778,14 @@ P acf/_spot_the/0 0.0
 P acf/_spot_the/1 0.0
 P acf/_spot_the/2 0.0
 P acf/_spot_the/count 3
-P acf/_sster_def_time 3.0
+P acf/_sster_def_time 2.0
 P acf/_stab_hdng 0.0
 P acf/_stab_roll 0.0
 P acf/_stab_trim_dn 0.0
 P acf/_stab_trim_up 0.0
 P acf/_stab_with_Vind 0.0
 P acf/_stab_with_flap 0.0
-P acf/_stall_warn_aoa 8.0
+P acf/_stall_warn_aoa 0.0
 P acf/_stall_warn_is_variable 0
 P acf/_start_on_water 0
 P acf/_starter_engages_fuel 1
@@ -29795,7 +29795,7 @@ P acf/_starter_engages_ignition 1
 P acf/_starter_is_air_driven 0
 P acf/_starter_max_rpm_rat 0.200000003
 P acf/_starter_torque_rat 0.300000012
-P acf/_steerdeg_castor 20.0
+P acf/_steerdeg_castor 30.0
 P acf/_stickshaker 0
 P acf/_studio Toth Sudio
 P acf/_sweep_extend_protect 0
@@ -29972,7 +29972,7 @@ P acf/_warn_fuelP 1.0
 P acf/_warn_gear 1
 P acf/_warn_hirot_EQ 0
 P acf/_warn_lorot_EQ 0
-P acf/_warn_stall 1
+P acf/_warn_stall 0
 P acf/_warn_transonic_EQ 0
 P acf/_warn_verbal_500_agl 0
 P acf/_wate_xyz/0 0.0
@@ -29984,16 +29984,16 @@ P acf/_water_rud_Z 0.0
 P acf/_water_rud_area 0.0
 P acf/_water_rud_maxdef 0.0
 P acf/_water_scoop_dep_time 0.010000000
-P acf/_wheel_tire_s1/0 0.522962987
+P acf/_wheel_tire_s1/0 0.523000002
 P acf/_wheel_tire_s1/1 0.824999988
 P acf/_wheel_tire_s1/count 2
-P acf/_wheel_tire_s2/0 0.561481476
+P acf/_wheel_tire_s2/0 0.560999990
 P acf/_wheel_tire_s2/1 0.870000005
 P acf/_wheel_tire_s2/count 2
-P acf/_wheel_tire_t1/0 0.448888898
-P acf/_wheel_tire_t1/1 0.946666658
+P acf/_wheel_tire_t1/0 0.449000001
+P acf/_wheel_tire_t1/1 0.947000027
 P acf/_wheel_tire_t1/count 2
-P acf/_wheel_tire_t2/0 0.484444439
+P acf/_wheel_tire_t2/0 0.483999997
 P acf/_wheel_tire_t2/1 0.990000010
 P acf/_wheel_tire_t2/count 2
 P acf/_windshield_scratchy 0
