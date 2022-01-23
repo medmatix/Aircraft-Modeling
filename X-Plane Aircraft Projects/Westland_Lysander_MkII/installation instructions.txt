@@ -1,0 +1,18 @@
+### Aircraft Installation ###
+
+The installation of the aircraft involves simply copying all the 
+extracted files from the distribution zip into a director with 
+the aircraft name created in the X-Plane aircraft directory.
+
+Support may be obtained via the forums of X-plane.org or from 
+the respective github repository directory tree at: 
+
+https://github.com/medmatix/Aircraft3D_Modeling/tree/main/X-Plane%20Aircraft%20Projects
+
+Feedback may be left as comments in the X-plane.org download 
+location or as an issue at yhe github repository above.
+
+Lastly I can be messaged for datayork at xplane.org.
+
+David A York
+Georgia, January 23 2022 13:37hr
