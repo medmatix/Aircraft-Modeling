@@ -28,8 +28,10 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 ### X-plane Flyable Models
 
 - Bristol Blenheim Mk IV Model 146 (Fairchild Canada Bolingbroke) [beta version]()
+- Bristol Blenheim Mk 1
 - Fairey Battle
 - Westland Lysander
+- de Havilland DHC-5 Buffalo
 
 [Youtube, my Lysander in Flight](https://youtu.be/uxI8YhunjR8)
 
@@ -84,6 +86,6 @@ Blender is the primary modeling tool used and Krita is used to creat the necessa
 2.  Williams, James N.; The Plan: Memories of the BCATP, Canada's Wings Inc, Stittsville, 1894.
 3.  MacKenzie, A.; Engineering ‘the aerodrome of democracy’, Canada 1939–1944,Engineering History and Heritage 162 August 2009 Issue EH3 Pages 147–155 
 5.  Milberry, Larry and Hugh Halliday; The Royal Canadian Air Firce at War 1939 - 1945,Canav Books, RToronto, 1990.
-5.  Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
+6.  Skaarup, Harold A. [numerous books]   [www.SilverHawkAuthor.com](https://www.SilverHawkAuthor.com), 2021 August 14 10:51 AM
 
 Please consider supporting my work via [Paypal](https://paypal.me/medmatix?country.x=US&locale.x=en_US)
