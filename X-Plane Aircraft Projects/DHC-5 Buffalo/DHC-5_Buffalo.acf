@@ -136,27 +136,27 @@ P _gear/0/_axiE 0.0
 P _gear/0/_axiN 0.0
 P _gear/0/_axiR 0.0
 P _gear/0/_cyc_time 5.0
-P _gear/0/_damp 1563.725585938
+P _gear/0/_damp 1447.894042969
 P _gear/0/_eagle_claw_deg 0.0
 P _gear/0/_gear_brakes 1
 P _gear/0/_gear_can_retract 1
 P _gear/0/_gear_castors 0
 P _gear/0/_gear_def_empty 0.0
 P _gear/0/_gear_def_gross 0.0
-P _gear/0/_gear_load_fraction 0.146977276
+P _gear/0/_gear_load_fraction 0.142345980
 P _gear/0/_gear_type 3
 P _gear/0/_gear_x 0.0
-P _gear/0/_gear_y -5.0
+P _gear/0/_gear_y -5.500000000
 P _gear/0/_gear_z 3.900000095
 P _gear/0/_latE 0.0
 P _gear/0/_latN 0.0
 P _gear/0/_latR 0.0
 P _gear/0/_leg_len 3.400000095
 P _gear/0/_lonE 20.0
-P _gear/0/_lonN 18.705505371
-P _gear/0/_lonR -100.0
-P _gear/0/_scon 15637.255859375
-P _gear/0/_stat_def 0.462417722
+P _gear/0/_lonN -82.110504150
+P _gear/0/_lonR -93.0
+P _gear/0/_scon 14478.940429688
+P _gear/0/_stat_def 0.483719647
 P _gear/0/_steerdeg_hispeed 10.0
 P _gear/0/_steerdeg_lospeed 15.0
 P _gear/0/_strut_comp 0.0
@@ -164,7 +164,7 @@ P _gear/0/_strut_s1 0.029629629
 P _gear/0/_strut_s2 0.039999999
 P _gear/0/_strut_t1 0.351111114
 P _gear/0/_strut_t2 0.447407395
-P _gear/0/_tire_radius 1.200000048
+P _gear/0/_tire_radius 1.0
 P _gear/0/_tire_swidth 0.400000006
 P _gear/1/_axiE 0.0
 P _gear/1/_axiN 0.0
@@ -177,7 +177,7 @@ P _gear/1/_gear_can_retract 1
 P _gear/1/_gear_castors 0
 P _gear/1/_gear_def_empty 0.0
 P _gear/1/_gear_def_gross 0.0
-P _gear/1/_gear_load_fraction 0.426511407
+P _gear/1/_gear_load_fraction 0.428827018
 P _gear/1/_gear_type 3
 P _gear/1/_gear_x 15.899999619
 P _gear/1/_gear_y -0.600000024
@@ -187,10 +187,10 @@ P _gear/1/_latN 0.0
 P _gear/1/_latR 0.0
 P _gear/1/_leg_len 7.500000000
 P _gear/1/_lonE 0.0
-P _gear/1/_lonN 0.970870972
+P _gear/1/_lonN 81.326950073
 P _gear/1/_lonR 90.0
 P _gear/1/_scon 26062.091796875
-P _gear/1/_stat_def 0.805130363
+P _gear/1/_stat_def 0.809577107
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -198,7 +198,7 @@ P _gear/1/_strut_s1 0.029629629
 P _gear/1/_strut_s2 0.044444446
 P _gear/1/_strut_t1 0.352592587
 P _gear/1/_strut_t2 0.444444448
-P _gear/1/_tire_radius 2.0
+P _gear/1/_tire_radius 1.799999952
 P _gear/1/_tire_swidth 0.500000000
 P _gear/2/_axiE 0.0
 P _gear/2/_axiN 0.0
@@ -211,7 +211,7 @@ P _gear/2/_gear_can_retract 1
 P _gear/2/_gear_castors 0
 P _gear/2/_gear_def_empty 0.0
 P _gear/2/_gear_def_gross 0.0
-P _gear/2/_gear_load_fraction 0.426511407
+P _gear/2/_gear_load_fraction 0.428827018
 P _gear/2/_gear_type 3
 P _gear/2/_gear_x -16.100000381
 P _gear/2/_gear_y -0.600000024
@@ -221,10 +221,10 @@ P _gear/2/_latN 0.0
 P _gear/2/_latR 0.0
 P _gear/2/_leg_len 7.500000000
 P _gear/2/_lonE 0.0
-P _gear/2/_lonN 0.970870972
+P _gear/2/_lonN 81.326950073
 P _gear/2/_lonR 90.0
 P _gear/2/_scon 26062.091796875
-P _gear/2/_stat_def 0.805130363
+P _gear/2/_stat_def 0.809577107
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -232,7 +232,7 @@ P _gear/2/_strut_s1 0.032592591
 P _gear/2/_strut_s2 0.047407407
 P _gear/2/_strut_t1 0.355555564
 P _gear/2/_strut_t2 0.450370371
-P _gear/2/_tire_radius 2.0
+P _gear/2/_tire_radius 1.799999952
 P _gear/2/_tire_swidth 0.509999990
 P _gear/3/_gear_type 0
 P _gear/4/_gear_type 0
@@ -357,6 +357,28 @@ P _obja/1/_v10_att_y_acf_prt_ref -3.819999933
 P _obja/1/_v10_att_z_acf_prt_ref -0.360000014
 P _obja/1/_v10_is_internal 237082160
 P _obja/1/_v10_steers_with_gear 0
+P _obja/10/_obj_flags 0
+P _obja/10/_v10_att_file_stl DHC-5_NoseDoors.obj
+P _obja/10/_v10_att_part -1
+P _obja/10/_v10_att_phi_ref 0.0
+P _obja/10/_v10_att_psi_ref 0.0
+P _obja/10/_v10_att_the_ref 0.0
+P _obja/10/_v10_att_x_acf_prt_ref 0.0
+P _obja/10/_v10_att_y_acf_prt_ref -3.799999952
+P _obja/10/_v10_att_z_acf_prt_ref 0.0
+P _obja/10/_v10_is_internal 278435376
+P _obja/10/_v10_steers_with_gear 0
+P _obja/11/_obj_flags 0
+P _obja/11/_v10_att_file_stl mainWheelDoors.obj
+P _obja/11/_v10_att_part -1
+P _obja/11/_v10_att_phi_ref 0.0
+P _obja/11/_v10_att_psi_ref 0.0
+P _obja/11/_v10_att_the_ref 6.0
+P _obja/11/_v10_att_x_acf_prt_ref 0.0
+P _obja/11/_v10_att_y_acf_prt_ref -1.100000024
+P _obja/11/_v10_att_z_acf_prt_ref 0.0
+P _obja/11/_v10_is_internal -991914448
+P _obja/11/_v10_steers_with_gear 0
 P _obja/2/_obj_flags 2
 P _obja/2/_v10_att_file_stl DHC-5_glass.obj
 P _obja/2/_v10_att_part -1
@@ -369,11 +391,11 @@ P _obja/2/_v10_att_z_acf_prt_ref -0.360000014
 P _obja/2/_v10_is_internal -700344784
 P _obja/2/_v10_steers_with_gear 0
 P _obja/3/_obj_flags 4
-P _obja/3/_v10_att_file_stl DHC-5_nose-gear.obj
+P _obja/3/_v10_att_file_stl DHC-5_NoseGear.obj
 P _obja/3/_v10_att_part 85
 P _obja/3/_v10_att_phi_ref 0.0
 P _obja/3/_v10_att_psi_ref 0.0
-P _obja/3/_v10_att_the_ref -22.0
+P _obja/3/_v10_att_the_ref 90.0
 P _obja/3/_v10_att_x_acf_prt_ref 0.0
 P _obja/3/_v10_att_y_acf_prt_ref 1.659999967
 P _obja/3/_v10_att_z_acf_prt_ref -3.900000095
@@ -402,26 +424,26 @@ P _obja/5/_v10_att_z_acf_prt_ref 0.0
 P _obja/5/_v10_is_internal -453667280
 P _obja/5/_v10_steers_with_gear 0
 P _obja/6/_obj_flags 4
-P _obja/6/_v10_att_file_stl DHC-5_ailerons.obj
+P _obja/6/_v10_att_file_stl DHC-5_Buffalo_flaps.obj
 P _obja/6/_v10_att_part -1
 P _obja/6/_v10_att_phi_ref 0.0
 P _obja/6/_v10_att_psi_ref 0.0
 P _obja/6/_v10_att_the_ref 0.0
 P _obja/6/_v10_att_x_acf_prt_ref 0.0
-P _obja/6/_v10_att_y_acf_prt_ref -3.759999990
+P _obja/6/_v10_att_y_acf_prt_ref -3.779999971
 P _obja/6/_v10_att_z_acf_prt_ref 0.0
-P _obja/6/_v10_is_internal -453667280
+P _obja/6/_v10_is_internal 778147376
 P _obja/6/_v10_steers_with_gear 0
 P _obja/7/_obj_flags 4
-P _obja/7/_v10_att_file_stl DHC-5_Buffalo_flaps.obj
+P _obja/7/_v10_att_file_stl DHC-5_ailerons.obj
 P _obja/7/_v10_att_part -1
 P _obja/7/_v10_att_phi_ref 0.0
 P _obja/7/_v10_att_psi_ref 0.0
 P _obja/7/_v10_att_the_ref 0.0
 P _obja/7/_v10_att_x_acf_prt_ref 0.0
-P _obja/7/_v10_att_y_acf_prt_ref -3.779999971
+P _obja/7/_v10_att_y_acf_prt_ref -3.759999990
 P _obja/7/_v10_att_z_acf_prt_ref 0.0
-P _obja/7/_v10_is_internal 778147376
+P _obja/7/_v10_is_internal -453667280
 P _obja/7/_v10_steers_with_gear 0
 P _obja/8/_obj_flags 4
 P _obja/8/_v10_att_file_stl DHC-5_rudder.obj
@@ -445,7 +467,7 @@ P _obja/9/_v10_att_y_acf_prt_ref -3.829999924
 P _obja/9/_v10_att_z_acf_prt_ref 0.070000000
 P _obja/9/_v10_is_internal 868587056
 P _obja/9/_v10_steers_with_gear 0
-P _obja/count 10
+P _obja/count 12
 P _panel_inst_3d 35
 P _part/0/_bot_s1 0.051851850
 P _part/0/_bot_s2 0.065185182
@@ -23956,7 +23978,7 @@ P _part/85/_part_specs_invis 1
 P _part/85/_part_tex 0
 P _part/85/_part_the 0.0
 P _part/85/_part_x 0.0
-P _part/85/_part_y -7.732537270
+P _part/85/_part_y -8.211235046
 P _part/85/_part_z 2.737131357
 P _part/85/_patt_con 0
 P _part/85/_patt_prt 0
@@ -25426,7 +25448,7 @@ P _part/86/_part_specs_invis 1
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x 15.899999619
-P _part/86/_part_y -7.294869900
+P _part/86/_part_y -7.290423393
 P _part/86/_part_z 32.700000763
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -26896,7 +26918,7 @@ P _part/87/_part_specs_invis 1
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x -16.100000381
-P _part/87/_part_y -7.294869900
+P _part/87/_part_y -7.290423393
 P _part/87/_part_z 32.700000763
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -34828,7 +34850,7 @@ P acf/_ground_pwr/0 0.0
 P acf/_ground_pwr/1 0.0
 P acf/_ground_pwr/2 0.0
 P acf/_ground_pwr/count 3
-P acf/_h_eqlbm 9.712244034
+P acf/_h_eqlbm 9.577691078
 P acf/_has_ADG 0
 P acf/_has_APU_bleed_air 0
 P acf/_has_APU_generator 0
@@ -35118,7 +35140,7 @@ P acf/_prim_is_epr 0
 P acf/_prop_inlet_recovery 1.100000024
 P acf/_prop_pitch_deg_per_sec 45.0
 P acf/_prop_pitch_deg_per_sec_unfeather 5.0
-P acf/_prop_x_ctr 1054.333374023
+P acf/_prop_x_ctr 1107.666748047
 P acf/_ptch_but_adjusts_alt_hold 0
 P acf/_puff_LMN/0 0.0
 P acf/_puff_LMN/1 0.0
@@ -35532,9 +35554,9 @@ P acf/_tank_xyz_full/8,1 0.0
 P acf/_tank_xyz_full/8,2 0.0
 P acf/_tank_xyz_full/i_count 9
 P acf/_tank_xyz_full/j_count 3
-P acf/_the_eqlbm -0.692892015
+P acf/_the_eqlbm 0.231011286
 P acf/_thro_non_vect_props_at_sin_vect 0
-P acf/_thro_x_ctr 985.690429688
+P acf/_thro_x_ctr 1039.023803711
 P acf/_throt_max_fwd_emr 1.0
 P acf/_throt_max_fwd_nrm 1.0
 P acf/_throt_max_rev 1.0
@@ -35569,7 +35591,7 @@ P acf/_vect_power_for 1.0
 P acf/_vect_rate 15.0
 P acf/_vectarmY 0.0
 P acf/_vectarmZ 0.0
-P acf/_version 0.16 (Beta)
+P acf/_version 0.17 (Beta)
 P acf/_vvi_but_adjusts_pitch 0
 P acf/_warn_airliner 0
 P acf/_warn_alt_app_100 0
@@ -36136,7 +36158,7 @@ eng_rnd_TRQ engine_TRQ.png
   KEY_FRAME 1.000000 1.000000
 
 han_sbrake_manual han_sbrake1.png
-  POS 853.285828 -126.142853
+  POS 933.285828 -124.142853
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 14
@@ -36145,7 +36167,7 @@ han_sbrake_manual han_sbrake1.png
   KEY_FRAME 1.000000 1.000000
 
 han_thrott_lin han_thro_linear.png
-  POS 897.857117 -126.714287
+  POS 977.857117 -124.714287
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 15
@@ -36154,7 +36176,7 @@ han_thrott_lin han_thro_linear.png
   KEY_FRAME 1.000000 1.000000
 
 han_thrott_lin han_thro_linear.png
-  POS 938.142883 -126.142853
+  POS 1018.142822 -124.142853
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 16
@@ -36163,7 +36185,7 @@ han_thrott_lin han_thro_linear.png
   KEY_FRAME 1.000000 1.000000
 
 han_flap_act_BC han_flap_BC.png
-  POS 974.857178 -211.000000
+  POS 1218.857178 -114.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 17
@@ -36172,7 +36194,7 @@ han_flap_act_BC han_flap_BC.png
   KEY_FRAME 1.000000 1.000000
 
 han_elv_trim_act elv_trim_act.png
-  POS 853.571411 -211.000000
+  POS 803.571411 -110.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 18
@@ -36181,7 +36203,7 @@ han_elv_trim_act elv_trim_act.png
   KEY_FRAME 1.000000 1.000000
 
 han_rud_trim_act rud_trim_act.png
-  POS 907.142883 -213.142853
+  POS 805.142822 -166.142853
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 19
@@ -36190,7 +36212,7 @@ han_rud_trim_act rud_trim_act.png
   KEY_FRAME 1.000000 1.000000
 
 but_brakes but_brakes.png
-  POS 387.857147 -168.142853
+  POS 389.857147 -150.142853
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 20
@@ -36199,7 +36221,7 @@ but_brakes but_brakes.png
   KEY_FRAME 1.000000 1.000000
 
 gear_handle_HM but_gear_handle_HM.
-  POS 503.571442 -198.857147
+  POS 491.571411 -180.857147
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 21
@@ -36208,7 +36230,7 @@ gear_handle_HM but_gear_handle_HM.
   KEY_FRAME 1.000000 1.000000
 
 han_prop_lin han_prop_linear.png
-  POS 977.428589 -126.000000
+  POS 1057.428589 -124.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 22
@@ -36217,7 +36239,7 @@ han_prop_lin han_prop_linear.png
   KEY_FRAME 1.000000 1.000000
 
 han_prop_lin han_prop_linear.png
-  POS 1008.571472 -126.000000
+  POS 1088.571533 -124.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 23
