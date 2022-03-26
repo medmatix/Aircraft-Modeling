@@ -1,4 +1,4 @@
-**FlightGear  Development** 
+*FlightGear  Development*
 
 (about information quoted from [Flightgear home](https://www.flightgear.org/about/))
 
