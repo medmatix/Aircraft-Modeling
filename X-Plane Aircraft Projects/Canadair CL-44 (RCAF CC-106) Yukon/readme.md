@@ -24,4 +24,4 @@ Initially, the CL-44-6 was produced for the RCAF as the CC-106 Yukon. Once initi
 
 The CC-106 Yukons retired in March 1971 and were replaced by the Boeing 707 (CC-137). The Yukons might have served longer with the Canadian Forces Air Transport Command but for two factors: the need for an aircraft which could operate as an in-flight refueling tanker, and the chronic shortage and high cost of spares, the latter resulting because the CL-44 had never gone into large-scale production. All Yukons were sold to South American and African operators as they could not be registered in Northern America or Europe since the FAA refused to certify the original windshields which came from the Bristol Britannia because they did not meet flight crew vision standards.[3]
 
- ![Yukon Model](http://Aircraft-Modeling/X-Plane Aircraft Projects/Canadair CL-44 (RCAF CC-106) Yukon/Art_files/Yukon_full_model.glb)
+ ![Yukon Model](https://github.com/medmatix/Aircraft-Modeling/blob/main/X-Plane%20Aircraft%20Projects/Canadair%20CL-44%20(RCAF%20CC-106)%20Yukon/Art_files/Yukon_full_model.glb)
